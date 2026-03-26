@@ -6,6 +6,10 @@
       <list>
         <option value="$PROJECT_DIR$/eurekaserver/eurekaserver/pom.xml" />
         <option value="$PROJECT_DIR$/userservice/pom.xml" />
+        <option value="$PROJECT_DIR$/apigateway/apigateway/pom.xml" />
+        <option value="$PROJECT_DIR$/friendprofileservice/friendprofileservice/pom.xml" />
+        <option value="$PROJECT_DIR$/friendrequestservice/friendrequestservice/pom.xml" />
+        <option value="$PROJECT_DIR$/postservice/postservice/pom.xml" />
       </list>
     </option>
   </component>
