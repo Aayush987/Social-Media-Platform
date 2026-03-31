@@ -10,7 +10,7 @@
         <module name="eurekaserver" />
         <module name="userservice" />
       </profile>
-      <profile name="Annotation profile for postservice" enabled="true">
+      <profile name="Annotation profile for apigateway" enabled="true">
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
